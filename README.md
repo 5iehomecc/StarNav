@@ -131,37 +131,6 @@ server {
    ```
 3. 将生成的哈希值替换 `adminHash` 字段
 
-## 配置说明
-
-### 数据格式（nav-data.json）
-
-```json
-{
-  "adminHash": "44f61792d66021c0030fa37dca5162871345c525f61984b88fa1af16d8117672",
-  "siteName": "StarNav",
-  "siteDesc": "StarNav - 最实用的经验，分享最需要的你",
-  "groups": [
-    {
-      "id": "default",
-      "name": "默认",
-      "emoji": "📌",
-      "bookmarks": [
-        {
-          "id": "bm_xxxxx",
-          "url": "https://example.com",
-          "name": "示例网站",
-          "desc": "网站描述",
-          "favicon": "https://t0.gstatic.cn/faviconV2?..."
-        }
-      ]
-    }
-  ]
-}
-```
-
-### 环境变量
-无外部依赖，无需配置环境变量。
-
 ## 版本历史
 
 | 版本 | 发布日期 | 主要更新 |
