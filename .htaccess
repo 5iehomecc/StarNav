@@ -1,0 +1,18 @@
+# 禁止直接访问 JSON 数据文件
+<FilesMatch "\.(json)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# 禁止访问隐藏文件
+<FilesMatch "^\.">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# 安全头
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options "nosniff"
+    Header set X-Frame-Options "SAMEORIGIN"
+    Header set X-XSS-Protection "1; mode=block"
+</IfModule>

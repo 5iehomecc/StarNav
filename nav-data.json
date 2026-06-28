@@ -4,87 +4,1038 @@
     "siteDesc": "E家导航 - 最实用的经验，分享最需要的你",
     "groups": [
         {
-            "id": "g6a2438e0bc540",
-            "name": "222",
-            "emoji": "🔥",
+            "id": "586123e4",
+            "name": "新闻资讯",
+            "emoji": "📰",
             "bookmarks": [
                 {
-                    "id": "b6a1ecc16a3aec",
-                    "name": "GitHub",
-                    "url": "https:\/\/github.com\/janhq\/jan",
-                    "desc": "Jan AI",
-                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/jan.ai&size=32"
-                }
-            ]
-        },
-        {
-            "id": "g6a2438e7654be",
-            "name": "4333",
-            "emoji": "🌐",
-            "bookmarks": [
-                {
-                    "id": "b6a2424fe2d94f",
-                    "name": "Google",
-                    "url": "https:\/\/google.com",
+                    "id": "c5c4cc46",
+                    "name": "今日热榜",
+                    "url": "https:\/\/tophub.today\/",
                     "desc": "",
-                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/google.com&size=32"
-                }
-            ]
-        },
-        {
-            "id": "default",
-            "name": "默认",
-            "emoji": "📌",
-            "bookmarks": [
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/tophub.today&size=32"
+                },
                 {
-                    "id": "b6a2424ad9e619",
-                    "name": "163.com",
+                    "id": "e76b29e4",
+                    "name": "Folo-RSS阅读器",
+                    "url": "https:\/\/app.folo.is\/timeline\/view-0\/all\/pending",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/app.folo.is&size=32"
+                },
+                {
+                    "id": "35a0a6bd",
+                    "name": "今日热榜",
+                    "url": "https:\/\/rebang.today\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/rebang.today&size=32"
+                },
+                {
+                    "id": "f372abbe",
+                    "name": "什么值得看",
+                    "url": "https:\/\/smzdk.top\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/smzdk.top&size=32"
+                },
+                {
+                    "id": "26fadbfa",
+                    "name": "为知笔记",
+                    "url": "https:\/\/www.wiz.cn\/xapp\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.wiz.cn&size=32"
+                },
+                {
+                    "id": "b6a40b6102d016",
+                    "name": "网易",
                     "url": "https:\/\/163.com",
                     "desc": "",
                     "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/163.com&size=32"
                 },
                 {
-                    "id": "b6a242ac7549a4",
-                    "name": "E家分享-主站",
-                    "url": "https:\/\/5iehome.cc",
+                    "id": "b6a40b62d06a69",
+                    "name": "163网易免费邮",
+                    "url": "https:\/\/mail.163.com",
                     "desc": "",
-                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/5iehome.cc&size=32"
-                },
-                {
-                    "id": "b6a2424d4aa3dd",
-                    "name": "sohu.com - 国内门户新浪网11",
-                    "url": "https:\/\/sohu.com",
-                    "desc": "",
-                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/sohu.com&size=32"
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/mail.163.com&size=32"
                 }
             ]
         },
         {
-            "id": "g6a1ecc305510b",
-            "name": "test",
-            "icon": "play",
+            "id": "af7ee283",
+            "name": "内容社区",
+            "emoji": "💬",
             "bookmarks": [
                 {
-                    "id": "b6a2424e6759f3",
-                    "name": "yahoo.com",
-                    "url": "https:\/\/yahoo.com",
+                    "id": "ccf3225a",
+                    "name": "知乎",
+                    "url": "https:\/\/www.zhihu.com\/",
                     "desc": "",
-                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/yahoo.com&size=32"
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.zhihu.com&size=32"
+                },
+                {
+                    "id": "61387e32",
+                    "name": "豆瓣电影",
+                    "url": "https:\/\/movie.douban.com\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/movie.douban.com&size=32"
+                },
+                {
+                    "id": "e8747a75",
+                    "name": "小红书搜索",
+                    "url": "https:\/\/www.xiaohongshu.com\/explore",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.xiaohongshu.com&size=32"
+                },
+                {
+                    "id": "2c919991",
+                    "name": "老胡的周刊",
+                    "url": "https:\/\/weekly.howie6879.com\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/weekly.howie6879.com&size=32"
+                },
+                {
+                    "id": "d1b7588b",
+                    "name": "二丫讲梵-学习周刊",
+                    "url": "https:\/\/wiki.eryajf.net\/learning-weekly\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/wiki.eryajf.net&size=32"
+                },
+                {
+                    "id": "6d656cae",
+                    "name": "fre123.com",
+                    "url": "https:\/\/www.fre123.com\/weekly",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/fre123.com&size=32"
                 }
-            ],
-            "emoji": "🎨"
+            ]
         },
         {
-            "id": "g6a2438dbf30bc",
-            "name": "111",
-            "emoji": "❤️",
+            "id": "e74aa2d3",
+            "name": "AI 搜索",
+            "emoji": "🤖",
             "bookmarks": [
                 {
-                    "id": "b6a2424c364cd9",
-                    "name": "sina.com.cn - 新浪",
-                    "url": "https:\/\/sina.com.cn",
+                    "id": "dafe20aa",
+                    "name": "DeepSeek",
+                    "url": "https:\/\/chat.deepseek.com",
                     "desc": "",
-                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/sina.com.cn&size=32"
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/chat.deepseek.com&size=32"
+                },
+                {
+                    "id": "35e4426f",
+                    "name": "豆包",
+                    "url": "https:\/\/www.doubao.com\/chat\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.doubao.com&size=32"
+                },
+                {
+                    "id": "4d93d436",
+                    "name": "Qwen Chat",
+                    "url": "https:\/\/chat.qwen.ai\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/chat.qwen.ai&size=32"
+                },
+                {
+                    "id": "15625b9f",
+                    "name": "ima-腾讯AI",
+                    "url": "https:\/\/ima.qq.com\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/ima.qq.com&size=32"
+                },
+                {
+                    "id": "be51a403",
+                    "name": "百度AI搜索",
+                    "url": "https:\/\/chat.baidu.com",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/chat.baidu.com&size=32"
+                },
+                {
+                    "id": "ab9c9dba",
+                    "name": "百度翻译",
+                    "url": "https:\/\/fanyi.baidu.com",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/fanyi.baidu.com&size=32"
+                },
+                {
+                    "id": "722af70f",
+                    "name": "infinity 导航",
+                    "url": "https:\/\/inftab.com\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/inftab.com&size=32"
+                },
+                {
+                    "id": "2b5ad482",
+                    "name": "Poixe AI - Free API key",
+                    "url": "https:\/\/poixe.com\/products\/free",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/poixe.com&size=32"
+                },
+                {
+                    "id": "bad6b9d6",
+                    "name": "NVIDIA - Free API key",
+                    "url": "https:\/\/build.nvidia.com\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/build.nvidia.com&size=32"
+                },
+                {
+                    "id": "9c8dd3c4",
+                    "name": "AI创建图片视频",
+                    "url": "https:\/\/blog.977933.xyz\/agnes",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/blog.977933.xyz&size=32"
+                },
+                {
+                    "id": "294c0e9b",
+                    "name": "EchoBird-部署 AI Agent",
+                    "url": "https:\/\/echobird.ai\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/echobird.ai&size=32"
+                },
+                {
+                    "id": "b6a40ad12031c7",
+                    "name": "Jan.AI",
+                    "url": "https:\/\/github.com\/janhq\/jan",
+                    "desc": "Jan AI 简易的AI客户端",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/jan.ai&size=32"
+                }
+            ]
+        },
+        {
+            "id": "031b85d6",
+            "name": "影音播放",
+            "emoji": "💼",
+            "bookmarks": [
+                {
+                    "id": "c45a5186",
+                    "name": "哔哩哔哩",
+                    "url": "https:\/\/www.bilibili.com",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.bilibili.com&size=32"
+                },
+                {
+                    "id": "b536461f",
+                    "name": "Youtube",
+                    "url": "https:\/\/www.youtube.com",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.youtube.com&size=32"
+                },
+                {
+                    "id": "9bb0fc95",
+                    "name": "BT之家1LOU站",
+                    "url": "https:\/\/www.1lou.me\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.1lou.me&size=32"
+                },
+                {
+                    "id": "f75635c9",
+                    "name": "七味网-VIP视频解析",
+                    "url": "https:\/\/www.qnmp4.com\/vp.html",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.qnmp4.com&size=32"
+                },
+                {
+                    "id": "4b73dc91",
+                    "name": "Swiss Web Radio Channel",
+                    "url": "http:\/\/publicdomainradio.org\/en\/channel.html?channelid=\/jazz_swing.mp3&_sm_au_=iVVJ45MqL4tbTbnQk7t3FBHQsLcLM",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/publicdomainradio.org&size=32"
+                },
+                {
+                    "id": "551231db",
+                    "name": "歌曲宝-MP3下载",
+                    "url": "https:\/\/www.gequbao.com\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.gequbao.com&size=32"
+                },
+                {
+                    "id": "777253cc",
+                    "name": "放屁网-MP3下载",
+                    "url": "https:\/\/www.fangpi.net\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.fangpi.net&size=32"
+                },
+                {
+                    "id": "4d630d58",
+                    "name": "无损音乐下载",
+                    "url": "https:\/\/flac.music.hi.cn\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/flac.music.hi.cn&size=32"
+                },
+                {
+                    "id": "22cfbcc3",
+                    "name": "泡椒音乐-MP3下载",
+                    "url": "https:\/\/pjmp3.com\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/pjmp3.com&size=32"
+                },
+                {
+                    "id": "3ab0d337",
+                    "name": "Voicss-AI分离人声乐器",
+                    "url": "https:\/\/voicss.com\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/voicss.com&size=32"
+                },
+                {
+                    "id": "362862a5",
+                    "name": "GitHub - Solara",
+                    "url": "https:\/\/github.com\/akudamatata\/Solara",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/github.com&size=32"
+                },
+                {
+                    "id": "099945bb",
+                    "name": "哔哩哔哩音频解析",
+                    "url": "https:\/\/www.pixcat.cn\/lab\/biliaudio.php",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.pixcat.cn&size=32"
+                },
+                {
+                    "id": "6ff16a1b",
+                    "name": "枫叶音乐盒",
+                    "url": "https:\/\/mu-jie.cc\/musicBox\/#\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/mu-jie.cc&size=32"
+                },
+                {
+                    "id": "142da7c0",
+                    "name": "i导航解析器",
+                    "url": "https:\/\/www.idaohang123.com\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.idaohang123.com&size=32"
+                }
+            ]
+        },
+        {
+            "id": "8b60ced5",
+            "name": "在线工具",
+            "emoji": "🔧",
+            "bookmarks": [
+                {
+                    "id": "253dbbd0",
+                    "name": "帮小忙工具箱",
+                    "url": "https:\/\/tool.browser.qq.com\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/tool.browser.qq.com&size=32"
+                },
+                {
+                    "id": "1c275f4e",
+                    "name": "图片处理工具合集",
+                    "url": "https:\/\/imagestool.com\/zh_CN\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/imagestool.com&size=32"
+                },
+                {
+                    "id": "bd32e474",
+                    "name": "文字转语音",
+                    "url": "https:\/\/www.narakeet.com\/app\/text-to-audio\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.narakeet.com&size=32"
+                },
+                {
+                    "id": "7d55d066",
+                    "name": "fabritor-封面图制作",
+                    "url": "https:\/\/fabritor.surge.sh\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/fabritor.surge.sh&size=32"
+                },
+                {
+                    "id": "f1bd1bbe",
+                    "name": "Photor-截图美化",
+                    "url": "https:\/\/www.photor.fun\/editor",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.photor.fun&size=32"
+                },
+                {
+                    "id": "525770c6",
+                    "name": "iLoveIMG-图像编辑",
+                    "url": "https:\/\/www.iloveimg.com\/zh-cn",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.iloveimg.com&size=32"
+                },
+                {
+                    "id": "08cba4ed",
+                    "name": "图小小",
+                    "url": "https:\/\/picsmaller.com\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/picsmaller.com&size=32"
+                },
+                {
+                    "id": "1b2c0fae",
+                    "name": "在线Markdown",
+                    "url": "https:\/\/tool.hadsky.com\/markdown",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/tool.hadsky.com&size=32"
+                },
+                {
+                    "id": "294c7647",
+                    "name": "在线MD编辑器",
+                    "url": "https:\/\/markdown.lovejade.cn\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/markdown.lovejade.cn&size=32"
+                },
+                {
+                    "id": "5c13238d",
+                    "name": "美团图床",
+                    "url": "https:\/\/695402.xyz\/mt\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/695402.xyz&size=32"
+                },
+                {
+                    "id": "2aa3f90d",
+                    "name": "背景生成器",
+                    "url": "https:\/\/bggenerator.com\/zh-cn.php",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/bggenerator.com&size=32"
+                },
+                {
+                    "id": "91942e51",
+                    "name": "获取网站Favicon图标",
+                    "url": "https:\/\/webicon.cc\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/webicon.cc&size=32"
+                },
+                {
+                    "id": "90e6e1ed",
+                    "name": "在线视频文案提取",
+                    "url": "https:\/\/www.dousnap.com\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.dousnap.com&size=32"
+                },
+                {
+                    "id": "9f242150",
+                    "name": "免费开源视频下载器",
+                    "url": "https:\/\/vidbee.org\/zh\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/vidbee.org&size=32"
+                }
+            ]
+        },
+        {
+            "id": "98aa16ef",
+            "name": "软件下载",
+            "emoji": "📦",
+            "bookmarks": [
+                {
+                    "id": "e0123042",
+                    "name": "不死鸟",
+                    "url": "https:\/\/iui.su\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/iui.su&size=32"
+                },
+                {
+                    "id": "14a1ce8f",
+                    "name": "吾爱破解-精品软件",
+                    "url": "https:\/\/www.52pojie.cn\/forum.php?mod=forumdisplay&fid=16&filter=author&orderby=dateline",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.52pojie.cn&size=32"
+                },
+                {
+                    "id": "369708d8",
+                    "name": "吾爱破解-福利经验",
+                    "url": "https:\/\/www.52pojie.cn\/forum.php?mod=forumdisplay&fid=66&filter=author&orderby=dateline",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.52pojie.cn&size=32"
+                },
+                {
+                    "id": "3927b9b7",
+                    "name": "果核剥壳",
+                    "url": "https:\/\/www.ghxi.com\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.ghxi.com&size=32"
+                },
+                {
+                    "id": "82620525",
+                    "name": "小叽资源-游戏列表",
+                    "url": "https:\/\/workflowy.com\/s\/00637abd0734\/gH226L6rME5UEuLZ#\/05a0c2897b11",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/workflowy.com&size=32"
+                },
+                {
+                    "id": "1bf521ed",
+                    "name": "小叽资源-单机游戏",
+                    "url": "https:\/\/steamzg.com\/category\/%e5%8d%95%e6%9c%ba%e6%b8%b8%e6%88%8f\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/steamzg.com&size=32"
+                },
+                {
+                    "id": "967eb0d0",
+                    "name": "帝国时代2决定版下载",
+                    "url": "https:\/\/bbs.3dmgame.com\/forum-1054-1.html",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/bbs.3dmgame.com&size=32"
+                },
+                {
+                    "id": "815c5941",
+                    "name": "Epic游戏免费游戏",
+                    "url": "https:\/\/store.epicgames.com\/zh-CN\/free-games",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/store.epicgames.com&size=32"
+                },
+                {
+                    "id": "19eb9d93",
+                    "name": "微PE工具箱",
+                    "url": "https:\/\/www.wepe.com.cn\/download.html",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.wepe.com.cn&size=32"
+                },
+                {
+                    "id": "3d63a010",
+                    "name": "又要重装系统站",
+                    "url": "https:\/\/www.yyczxt.com\/?page=1&need_pay=2&os_type=7",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.yyczxt.com&size=32"
+                },
+                {
+                    "id": "cb991e71",
+                    "name": "远景论坛-Win11论坛",
+                    "url": "https:\/\/bbs.pcbeta.com\/forum.php?mod=forumdisplay&fid=563&filter=author&orderby=dateline",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/bbs.pcbeta.com&size=32"
+                },
+                {
+                    "id": "f011912f",
+                    "name": "423Down-Win11",
+                    "url": "https:\/\/www.423down.com\/win11",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.423down.com&size=32"
+                },
+                {
+                    "id": "41db7276",
+                    "name": "缘本初见-Win11",
+                    "url": "https:\/\/www.52ybcj.com\/system\/windows11",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.52ybcj.com&size=32"
+                },
+                {
+                    "id": "d5d69a04",
+                    "name": "Puresys系统-Win11",
+                    "url": "https:\/\/www.puresys.net\/windows11",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.puresys.net&size=32"
+                },
+                {
+                    "id": "c481041c",
+                    "name": "百度网盘解析",
+                    "url": "https:\/\/pd.fly288.top\/user\/parse",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/pd.fly288.top&size=32"
+                },
+                {
+                    "id": "c33c0a2a",
+                    "name": "夸克网盘解析",
+                    "url": "https:\/\/qk.ziyuanshare.cc\/user\/parse",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/qk.ziyuanshare.cc&size=32"
+                },
+                {
+                    "id": "401d4d1a",
+                    "name": "百度网盘解析",
+                    "url": "https:\/\/jx.ziyuanshare.cc\/user\/parse",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/jx.ziyuanshare.cc&size=32"
+                },
+                {
+                    "id": "2ce28e54",
+                    "name": "月的公益宝藏",
+                    "url": "https:\/\/bd.yueyued.top\/user\/parse",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/bd.yueyued.top&size=32"
+                }
+            ]
+        },
+        {
+            "id": "43fe8d3f",
+            "name": "在线学习工具",
+            "emoji": "📚",
+            "bookmarks": [
+                {
+                    "id": "1f0ea1bc",
+                    "name": "PaddleOCR",
+                    "url": "https:\/\/aistudio.baidu.com\/paddleocr\/",
+                    "desc": "文档解析与智能文字识别",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/aistudio.baidu.com&size=32"
+                },
+                {
+                    "id": "da45b6c9",
+                    "name": "MinerU-免费文档解析",
+                    "url": "https:\/\/mineru.net\/OpenSourceTools\/Extractor",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/mineru.net&size=32"
+                },
+                {
+                    "id": "16c56e13",
+                    "name": "大角几何",
+                    "url": "https:\/\/dajiaoai.com\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/dajiaoai.com&size=32"
+                },
+                {
+                    "id": "3400c720",
+                    "name": "几何 - GeoGebra",
+                    "url": "https:\/\/www.geogebra.org\/geometry",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.geogebra.org&size=32"
+                },
+                {
+                    "id": "c43a6d2a",
+                    "name": "Desmos | 数学工具组",
+                    "url": "https:\/\/www.desmos.com\/?lang=zh-CN",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.desmos.com&size=32"
+                },
+                {
+                    "id": "66f39e69",
+                    "name": "MathTool数学画板",
+                    "url": "https:\/\/www.imathtool.com\/huaban\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.imathtool.com&size=32"
+                },
+                {
+                    "id": "18ee87e0",
+                    "name": "SimpleTex",
+                    "url": "https:\/\/www.simpletex.cn\/ai\/latex_ocr",
+                    "desc": "公式文档识别",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.simpletex.cn&size=32"
+                },
+                {
+                    "id": "704c46a7",
+                    "name": "AxMath\/AxGlyph\/AxCells",
+                    "url": "https:\/\/www.amyxun.com\/",
+                    "desc": "公式编辑器",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.amyxun.com&size=32"
+                },
+                {
+                    "id": "193a1fea",
+                    "name": "Corca-Math Editor",
+                    "url": "https:\/\/corca.app\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/corca.app&size=32"
+                },
+                {
+                    "id": "66e9ba73",
+                    "name": "大学生 AI 笔记 | ThetaWave",
+                    "url": "https:\/\/thetawave.ai\/zh\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/thetawave.ai&size=32"
+                }
+            ]
+        },
+        {
+            "id": "d5d4e8e4",
+            "name": "E家分享",
+            "emoji": "🏠",
+            "bookmarks": [
+                {
+                    "id": "dacc9850",
+                    "name": "E家分享网址导航",
+                    "url": "https:\/\/5iehome.cc\/tool\/phpnav\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/5iehome.cc&size=32"
+                },
+                {
+                    "id": "9ca7a20b",
+                    "name": "E家分享-主站",
+                    "url": "https:\/\/www.5iehome.cc",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.5iehome.cc&size=32"
+                },
+                {
+                    "id": "8b1a8ebf",
+                    "name": "E家分享-blog",
+                    "url": "https:\/\/blog.5iehome.cc",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/blog.5iehome.cc&size=32"
+                },
+                {
+                    "id": "f8da0367",
+                    "name": "E家分享导航站",
+                    "url": "https:\/\/nav.5iehome.cc",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/nav.5iehome.cc&size=32"
+                },
+                {
+                    "id": "76c1efa7",
+                    "name": "E家分享软件站",
+                    "url": "https:\/\/pan.5iehome.cc\/",
+                    "desc": "https:\/\/23.254.221.35:5244\/",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/pan.5iehome.cc&size=32"
+                },
+                {
+                    "id": "f01bae41",
+                    "name": "1panel-US",
+                    "url": "https:\/\/1p.5iehome.cc",
+                    "desc": "http:\/\/23.254.221.35:50000",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/1p.5iehome.cc&size=32"
+                },
+                {
+                    "id": "89fbf225",
+                    "name": "VPS监控",
+                    "url": "https:\/\/vps.5iehome.cc\/",
+                    "desc": "http:\/\/23.254.221.35:8083",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/vps.5iehome.cc&size=32"
+                },
+                {
+                    "id": "d2edbda9",
+                    "name": "青龙面板-US",
+                    "url": "https:\/\/ql.5iehome.cc\/",
+                    "desc": "http:\/\/23.254.221.35:5700",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/ql.5iehome.cc&size=32"
+                },
+                {
+                    "id": "75a4d4ae",
+                    "name": "SSH Web登录",
+                    "url": "https:\/\/ssh.5iehome.cc\/",
+                    "desc": "http:\/\/23.254.221.35:8040",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/ssh.5iehome.cc&size=32"
+                },
+                {
+                    "id": "eb5f2c5b",
+                    "name": "宝塔面板-E家分享",
+                    "url": "http:\/\/140.238.12.127:8888\/5iehome",
+                    "desc": "http:\/\/140.238.12.127:8888",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/140.238.12.127&size=32"
+                },
+                {
+                    "id": "686328d1",
+                    "name": "Tiny File Manager",
+                    "url": "https:\/\/5iehome.cc\/toolbox\/tinyfilemanager.php",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/5iehome.cc&size=32"
+                },
+                {
+                    "id": "8ef85fa6",
+                    "name": "宝塔面板-665188.xyz",
+                    "url": "https:\/\/193.122.105.36:8888\/5iehome",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/193.122.105.36&size=32"
+                },
+                {
+                    "id": "cf484b9c",
+                    "name": "宝塔面板-US",
+                    "url": "https:\/\/23.254.221.35:8888\/5iehome",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/23.254.221.35&size=32"
+                },
+                {
+                    "id": "34d03f88",
+                    "name": "X-UI-YG面板-US",
+                    "url": "http:\/\/23.254.221.35:54321\/fq\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/23.254.221.35&size=32"
+                },
+                {
+                    "id": "132dd4e9",
+                    "name": "Google AdSense",
+                    "url": "https:\/\/adsense.google.com\/adsense\/u\/0\/pub-9020834512550695\/reporting\/?rt=q&ag=date&gm=earnings&m=earnings%2CpageViews%2CpageViewsRpm%2CmonetizableImpressions%2CmonetizableImpressionsRpm%2CactiveViewViewability%2Cclicks&oc=date&oo=ascending&ct=td&d=last30days",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/adsense.google.com&size=32"
+                },
+                {
+                    "id": "a3141c9c",
+                    "name": "CF节点订阅中心",
+                    "url": "https:\/\/fq.5iehome.eu.org\/fq",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/fq.5iehome.eu.org&size=32"
+                }
+            ]
+        },
+        {
+            "id": "55a0eab7",
+            "name": "To Do List",
+            "emoji": "📝",
+            "bookmarks": [
+                {
+                    "id": "6fd8ac99",
+                    "name": "Typecho AI 写作助手插件",
+                    "url": "https:\/\/github.com\/Moze54\/AIPen",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/github.com&size=32"
+                },
+                {
+                    "id": "15c1b6e4",
+                    "name": "VibeCoding 项目集市",
+                    "url": "https:\/\/vibehuber.cn\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/vibehuber.cn&size=32"
+                },
+                {
+                    "id": "c1a61cf7",
+                    "name": "SyncFlow: 光鸭云盘秒传工具",
+                    "url": "https:\/\/github.com\/lxzynj\/SyncFlow",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/github.com&size=32"
+                },
+                {
+                    "id": "edb4ecb6",
+                    "name": "Huashu Design",
+                    "url": "https:\/\/github.com\/alchaincyf\/huashu-design",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/github.com&size=32"
+                },
+                {
+                    "id": "90aafb71",
+                    "name": "MathCyclus - 高中数学题库管理与智能组卷系统",
+                    "url": "https:\/\/github.com\/JinLingxi\/MathCyclus---Lingxi-Question-Bank-Assistant",
+                    "desc": "知乎文章：https:\/\/www.zhihu.com\/project\/detail\/180133",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/github.com&size=32"
+                },
+                {
+                    "id": "bc77da68",
+                    "name": "菁优网组卷提取",
+                    "url": "https:\/\/github.com\/jyt2018\/jyeoo-paper-formatter",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/github.com&size=32"
+                },
+                {
+                    "id": "a73bacf5",
+                    "name": "数学 · 可视化高中数学学习平台",
+                    "url": "https:\/\/www.math-zhang.com",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.math-zhang.com&size=32"
+                }
+            ]
+        },
+        {
+            "id": "9b7e29eb",
+            "name": "建站工具",
+            "emoji": "🌐",
+            "bookmarks": [
+                {
+                    "id": "7773cd01",
+                    "name": "网易免费邮",
+                    "url": "https:\/\/mail.163.com",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/mail.163.com&size=32"
+                },
+                {
+                    "id": "97137c14",
+                    "name": "Gmail",
+                    "url": "https:\/\/gmail.com",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/gmail.com&size=32"
+                },
+                {
+                    "id": "87bf24b4",
+                    "name": "甲骨文云-登录",
+                    "url": "https:\/\/www.oracle.com\/cloud\/sign-in.html",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.oracle.com&size=32"
+                },
+                {
+                    "id": "1a8d56e9",
+                    "name": "Cloudflare",
+                    "url": "https:\/\/dash.cloudflare.com\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/dash.cloudflare.com&size=32"
+                },
+                {
+                    "id": "4ddd3c8e",
+                    "name": "Name.com",
+                    "url": "https:\/\/www.name.com\/zh-cn",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.name.com&size=32"
+                },
+                {
+                    "id": "9aae9923",
+                    "name": "Spaceship",
+                    "url": "https:\/\/spaceship.com",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/spaceship.com&size=32"
+                },
+                {
+                    "id": "6c0ccc93",
+                    "name": "腾讯云",
+                    "url": "https:\/\/www.dnspod.cn\/login?r=\/console\/dashboard",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.dnspod.cn&size=32"
+                },
+                {
+                    "id": "258c2020",
+                    "name": "Tencent EdgeOne",
+                    "url": "https:\/\/edgeone.ai\/zh\/login?s_url=https:\/\/console.tencentcloud.com\/edgeone\/pages",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/edgeone.ai&size=32"
+                },
+                {
+                    "id": "732e0b18",
+                    "name": "微测网 - 优选IP",
+                    "url": "https:\/\/www.wetest.vip\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.wetest.vip&size=32"
+                },
+                {
+                    "id": "083bd9a3",
+                    "name": "科技lion",
+                    "url": "https:\/\/kejilion.pro\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/kejilion.pro&size=32"
+                },
+                {
+                    "id": "a391a303",
+                    "name": "Kejilion.sh一键脚本",
+                    "url": "https:\/\/kejilion.sh\/index-zh-CN.html",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/kejilion.sh&size=32"
+                },
+                {
+                    "id": "81ffe0f5",
+                    "name": "5iehomecc-GitHub",
+                    "url": "https:\/\/github.com\/5iehomecc",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/github.com&size=32"
+                },
+                {
+                    "id": "901e276c",
+                    "name": "萌盘-萌社区网盘",
+                    "url": "https:\/\/pan.moe\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/pan.moe&size=32"
+                },
+                {
+                    "id": "398f3536",
+                    "name": "ITDOG-网络测试",
+                    "url": "https:\/\/www.itdog.cn\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.itdog.cn&size=32"
+                },
+                {
+                    "id": "42d6d55d",
+                    "name": "Speed Test-Google Fiber",
+                    "url": "https:\/\/fiber.google.com\/speedtest\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/fiber.google.com&size=32"
+                }
+            ]
+        },
+        {
+            "id": "7facbdd3",
+            "name": "技术开发",
+            "emoji": "💻",
+            "bookmarks": [
+                {
+                    "id": "ca35118f",
+                    "name": "HelloGitHub",
+                    "url": "https:\/\/hellogithub.com\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/hellogithub.com&size=32"
+                },
+                {
+                    "id": "8826e2a3",
+                    "name": "GitHub-OpenListDesktop",
+                    "url": "https:\/\/github.com\/OpenListTeam\/OpenList-Desktop",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/github.com&size=32"
+                },
+                {
+                    "id": "621e198c",
+                    "name": "Komari-服务器监控面板",
+                    "url": "https:\/\/github.com\/komari-monitor\/komari\/blob\/main\/docs\/README_zh.md",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/github.com&size=32"
+                },
+                {
+                    "id": "fe64fcee",
+                    "name": "Van Nav-导航站",
+                    "url": "https:\/\/github.com\/Mereithhh\/van-nav",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/github.com&size=32"
+                },
+                {
+                    "id": "7f67eedf",
+                    "name": "xg-nav: HTML静态导航",
+                    "url": "https:\/\/github.com\/verkyer\/xg-nav",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/github.com&size=32"
+                },
+                {
+                    "id": "92e76f34",
+                    "name": "icon-pack",
+                    "url": "https:\/\/github.com\/verkyer\/icon-pack",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/github.com&size=32"
+                },
+                {
+                    "id": "9bca2251",
+                    "name": "urldb-支持多网盘自动化转存分享",
+                    "url": "https:\/\/github.com\/ctwj\/urldb",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/github.com&size=32"
+                },
+                {
+                    "id": "318bcd95",
+                    "name": "我不是咕咕鸽",
+                    "url": "https:\/\/blog.laoda.de\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/blog.laoda.de&size=32"
+                },
+                {
+                    "id": "89c07fb0",
+                    "name": "甬哥侃侃侃-x-ui脚本",
+                    "url": "https:\/\/github.com\/yonggekkk\/x-ui-yg",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/github.com&size=32"
+                },
+                {
+                    "id": "968dd378",
+                    "name": "SubsCheck节点筛选",
+                    "url": "https:\/\/github.com\/cmliu\/SubsCheck-Win-GUI",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/github.com&size=32"
+                },
+                {
+                    "id": "29f1038c",
+                    "name": "Cloudflare节点搭建",
+                    "url": "https:\/\/github.com\/byJoey\/cfnew",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/github.com&size=32"
+                },
+                {
+                    "id": "470a241a",
+                    "name": "Happy Hues - Curated colors in context.",
+                    "url": "https:\/\/www.happyhues.co\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.happyhues.co&size=32"
+                }
+            ]
+        },
+        {
+            "id": "6fc65833",
+            "name": "小学教育",
+            "emoji": "🎓",
+            "bookmarks": [
+                {
+                    "id": "d4277f19",
+                    "name": "Math is Fun - YouTube",
+                    "url": "https:\/\/www.youtube.com\/@Mathiscoolcool\/shorts",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.youtube.com&size=32"
+                },
+                {
+                    "id": "cd845fba",
+                    "name": "于主任(10年小学班主任) - YouTube",
+                    "url": "https:\/\/www.youtube.com\/@%E4%BA%8E%E4%B8%BB%E4%BB%BB10%E5%B9%B4%E5%B0%8F%E5%AD%A6%E7%8F%AD%E4%B8%BB%E4%BB%BB",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.youtube.com&size=32"
+                },
+                {
+                    "id": "6c6aed87",
+                    "name": "明日星 - 小学资料",
+                    "url": "http:\/\/52fxw.top\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/52fxw.top&size=32"
+                },
+                {
+                    "id": "3e982398",
+                    "name": "金狐电脑工作室",
+                    "url": "http:\/\/www.jinhu.me\/default.asp",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.jinhu.me&size=32"
+                },
+                {
+                    "id": "d9341295",
+                    "name": "课件园 - 免费优质教学资源网站！",
+                    "url": "https:\/\/www.kejianyuan.net\/",
+                    "desc": "",
+                    "favicon": "https:\/\/t0.gstatic.cn\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http:\/\/www.kejianyuan.net&size=32"
                 }
             ]
         }
